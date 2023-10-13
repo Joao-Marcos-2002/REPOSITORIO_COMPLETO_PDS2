@@ -1,0 +1,64 @@
+-> LEMBRAR DE REVISAR VPL: 5!
+
+
+
+# SOBRECARGA
+
+Operador com ASSINATURAS diferentes
+
+EX:
+
+
+int sum(int a, int b) {
+    return a + b;
+}
+double sum(double a, double b) {
+    return a + b;
+}
+
+
+
+
+----> PERGUNTAR DIFERENÇA ENTRE ESSES DOIS:
+
+# Polimorfismo de Coersão
+
+
+
+
+
+
+# Polimorfismo Aparente
+
+
+
+
+
+
+
+# Polimorfismo Paramétrico
+
+
+
+- Reuso (de valores):
+
+char get_max(char a, char b) {
+    return (a > b ? a : b);
+}
+int get_max(int a, int b) {
+    return (a > b ? a : b);
+}
+string get_max(string a, string b) {
+    return (a > b ? a : b);
+}
+
+
+
+
+
+
+===================================================================================================
+
+//Revisar aula (dia 27)
+Matérias p2:
+#polimorfismo, herança e tratamento de exceção

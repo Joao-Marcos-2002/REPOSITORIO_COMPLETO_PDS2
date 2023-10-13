@@ -1,0 +1,9 @@
+
+Referência: &variavel
+Para referência usa-se o ponto (.)
+
+
+Ponteiro: *variavel
+Para referência usa-se o operador: ->
+
+Função amiga tem acesso as propriedades e métodos privados e protegidos da classe.
